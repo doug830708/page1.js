@@ -1,0 +1,48 @@
+<html>
+<head>
+
+<title>楊字訊的網頁
+</title>
+
+ <style type="text/css">
+  body {
+	padding-left: 11em;
+	color: blue
+	}
+  ul.navbar {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  </style>
+
+</head>
+
+<body>
+
+<ul class="navbar">
+  <li><a href="page1.html">首頁</a>
+  <li><a href="page2.html">個人檔案</a>
+  <li><a href="https://tw.yahoo.com/">奇摩</a>
+  <li><a href="https://www.google.com.tw/">Google</a>
+</ul>
+
+
+<h1>我的個人檔案</h1>
+<table border="1">
+　<tr>
+　<td>　姓　名　</td>
+　<td>　楊字訊　</td>
+　</tr>
+　<tr>
+　<td>　性　別</td>
+　<td>　　男</td>
+　</tr>
+</table>
+
+<p><img src="volleyball.jpg"></p>
+
+<address>2015年3月9日製作</address>
+
+</body>
+</html>
