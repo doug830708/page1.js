@@ -1,0 +1,39 @@
+<html>
+<head>
+
+<title>楊字訊的網頁
+</title>
+
+ <style type="text/css">
+  body {
+	padding-left: 11em;
+	color: blue
+	}
+  ul.navbar {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  </style>
+
+</head>
+
+<body>
+
+<ul class="navbar">
+  <li><a href="page1.html">首頁</a>
+  <li><a href="page2.html">個人檔案</a>
+  <li><a href="https://tw.yahoo.com/">奇摩</a>
+  <li><a href="https://www.google.com.tw/">Google</a>
+</ul>
+
+
+<h1>我的第一個網頁</h1>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/rcfrWv9lYAQ" frameborder="0" allowfullscreen></iframe></p>
+
+
+
+<address>2015年3月9日製作</address>
+
+</body>
+</html>
